@@ -1,0 +1,35 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  margin: 45px 0 30px 0
+}
+
+.btn-primary {
+  background-color: #9e7bb7;
+  border: none;
+}
+
+#logo {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.well {
+  margin-top: 35px;
+}
+
+.well h3 {
+  margin: 20px 0 25px 0;
+}
